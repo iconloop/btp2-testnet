@@ -4,9 +4,9 @@
 ## Introduction
 This document provides information on the BTP network connected to the ICON Berlin TestNet.
 
-##ICON Berlin TestNet
+## ICON Berlin TestNet
 
-###Domain
+### Domain
 * RPC URL : `https://berlin.net.solidwallet.io/api/v3/icon_dex`
 * Network : `0x7.icon`
 * BTP NetworkId : 
@@ -16,7 +16,7 @@ This document provides information on the BTP network connected to the ICON Berl
   * BSC : 6229774
   * Eth2 : 6229184
 
-###Contract
+### Contract
 | Contract  | Address |     Note     |
 |:----------|:-------:|:------------:|
 | BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |              |
@@ -26,14 +26,14 @@ This document provides information on the BTP network connected to the ICON Berl
 | Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |              |
 
 
-##BSC TestNet TestNet
+## BSC TestNet TestNet
 
-###Domain
+### Domain
 * RPC URL : `https://data-seed-prebsc-1-s1.binance.org:8545`
 * Network : `0x61.bsc`
 * StartHeight : 28463560
 
-###Contract
+### Contract
 | Contract | Address | Note |
 |:---------|:-------:|:----:|
 | BMCM     |   0xFd82803c9b2E92C628846012c6E5016Ac380f68d   |      |
@@ -44,14 +44,14 @@ This document provides information on the BTP network connected to the ICON Berl
 | Demo DAPP   |   0xb072b7d60C143944fdBb45E22A3ae04DcD0b7432   |      |
 
 
-##ETH2 TestNet TestNet
+## ETH2 TestNet TestNet
 
-###Domain
+### Domain
 * RPC URL : `https://sepolia.infura.io/v3/ffbf8ebe228f4758ae82e175640275e0`
 * Network : `0xaa36a7.eth2`
 * StartHeight : 3185472
 
-###Contract
+### Contract
 | Contract | Address | Note |
 |:---------|:-------:|:----:|
 | BMCM     |   0x39FBbE3AeCbe6ED08baf16e13eFE4aA31550CaA2   |      |
