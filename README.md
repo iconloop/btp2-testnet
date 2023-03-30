@@ -5,6 +5,7 @@
 This document provides information on the BTP network connected to the ICON Berlin TestNet.
 
 ##ICON Berlin TestNet
+
 ###Domain
 * RPC URL : `https://berlin.net.solidwallet.io/api/v3/icon_dex`
 * Network : `0x7.icon`
@@ -26,6 +27,7 @@ This document provides information on the BTP network connected to the ICON Berl
 
 
 ##BSC TestNet TestNet
+
 ###Domain
 * RPC URL : `https://data-seed-prebsc-1-s1.binance.org:8545`
 * Network : `0x61.bsc`
@@ -43,6 +45,7 @@ This document provides information on the BTP network connected to the ICON Berl
 
 
 ##ETH2 TestNet TestNet
+
 ###Domain
 * RPC URL : `https://sepolia.infura.io/v3/ffbf8ebe228f4758ae82e175640275e0`
 * Network : `0xaa36a7.eth2`
