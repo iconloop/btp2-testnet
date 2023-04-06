@@ -4,6 +4,9 @@
 ## Introduction
 This document provides information on the BTP network connected to the ICON Berlin TestNet.
 
+## Relay
+* Repository URL : [BTP2 Repository](https://github.com/icon-project/btp2/tree/v1.0.0)
+* Version : v1.0.0
 ## ICON Berlin TestNet
 
 ### Domain
