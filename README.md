@@ -23,7 +23,7 @@ This document provides information on the BTP network connected to the ICON Berl
 | Contract  | Address |     Note     |
 |:----------|:-------:|:------------:|
 | BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |              |
-| BSC BMV   |   cx57b9817bfa313afeffc459b19e8dab973f7b4e82   | Bridge Mode  |
+| BSC BMV   |   cx7af8b64f516f804258526fa70e12be96d65fb06d   | Trustless Mode<br /> Supports Planck-fork  |
 | Eth2 BMV  |   cx495e239a7a365459926e1f2c20b3cb6d42fe15e2   | Bridge Mode  |
 | XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |              |
 | Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |              |
