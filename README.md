@@ -50,7 +50,7 @@ This document provides information on the BTP network connected to the ICON Berl
 ## ETH2 Sepolia TestNet
 
 ### Relay
-* Repository URL : [BTP2-eth2 Repository](https://github.com/icon-project/btp2-eth2/tree/v0.1.1)
+* Repository URL : [BTP2-eth2 Repository](https://github.com/icon-project/btp2-eth2)
 
 ### Domain
 * RPC URL : `https://sepolia.infura.io/v3/ffbf8ebe228f4758ae82e175640275e0`
