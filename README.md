@@ -15,18 +15,21 @@ This document provides information on the BTP network connected to the ICON Berl
 * BTP NetworkId : 
   * BSC : `0x1`
   * Eth2 : `0x2`
+  * Havah : `0x3`
 * StartHeight 
   * BSC : 6229774
   * Eth2 : 6229184
+  * Havah : 8582402
 
 ### Contract
-| Contract  | Address |     Note     |
-|:----------|:-------:|:------------:|
-| BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |              |
-| BSC BMV   |   cx7af8b64f516f804258526fa70e12be96d65fb06d   | Trustless Mode<br /> Supports Planck-fork  |
-| Eth2 BMV  |   cx495e239a7a365459926e1f2c20b3cb6d42fe15e2   | Trustless Mode<br /> Supports Capella  |
-| XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |              |
-| Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |              |
+| Contract  | Address |                   Note                    |
+|:----------|:-------:|:-----------------------------------------:|
+| BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                           |
+| BSC BMV   |   cx7af8b64f516f804258526fa70e12be96d65fb06d   | Trustless Mode<br /> Supports Planck-fork |
+| Eth2 BMV  |   cx495e239a7a365459926e1f2c20b3cb6d42fe15e2   |   Trustless Mode<br /> Supports Capella   |
+| Havah BMV |   cxd1bd0add3c7707fa875bf5370da46875365f44cf   |              Trustless Mode               |
+| XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                           |
+| Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |                                           |
 
 
 ## BSC TestNet TestNet
@@ -66,3 +69,22 @@ This document provides information on the BTP network connected to the ICON Berl
 | BMV      |   0x684ba8F34f9481f7F02aCd4F143506E11AC19E3E   |      |
 | XCALL    |   0x9B68bd3a04Ff138CaFfFe6D96Bc330c699F34901   |      |
 | Demo DAPP   |   0x0FcBB34A8468CaA65d3f81CAef8C42E43043687c   |      |
+
+
+## HAVAH TestNet
+
+### Domain
+* RPC URL : `https://btp.vega.havah.io/api/v3/icon_dex`
+* Network : `0x111.icon`
+* BTP NetworkId :
+  * Berlin : `0x3`
+* StartHeight
+  * Berlin : 1296519
+
+### Contract
+| Contract  | Address |                   Note                    |
+|:----------|:-------:|:-----------------------------------------:|
+| BMC       |   cx683a92f72cc2fe9a7a617019a8d6fcba6b6c06b7   |                                           |
+| Berlin BMV |   cx8737236f65ef6d41ac33b328bc758e8663366caa   |              Trustless Mode               |
+| XCALL     |   cx05b5f4e2cb80827d4b53d13549041c66442f327d   |                                           |
+| Demo DAPP |   cxd1531ebfc81cb890810bc0e5603c1e27046174e3   |                                           |
