@@ -26,7 +26,7 @@ This document provides information on the BTP network connected to the ICON Berl
 |:----------|:-------:|:-----------------------------------------:|
 | BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                           |
 | BSC BMV   |   cx7af8b64f516f804258526fa70e12be96d65fb06d   | Trustless Mode<br /> Supports Planck-fork |
-| Eth2 BMV  |   cx495e239a7a365459926e1f2c20b3cb6d42fe15e2   |   Trustless Mode<br /> Supports Capella   |
+| Eth2 BMV  |   cxbab382c24c5e492d45cf11c0b07fd36e8344e96f   |   Trustless Mode<br /> Supports Capella   |
 | Havah BMV |   cxd1bd0add3c7707fa875bf5370da46875365f44cf   |              Trustless Mode               |
 | XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                           |
 | Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |                                           |
