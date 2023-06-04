@@ -45,7 +45,7 @@ This document provides information on the BTP network connected to the ICON Berl
 | BMCM     |   0xFd82803c9b2E92C628846012c6E5016Ac380f68d   |      |
 | BMCS     |   0x6AB5fB039ABbEE20bf43F84393E528015686fB04   |      |
 | BMC      |   0x193eD92257E0773ccBA097e0ba4110E588eb0F1c   |      |
-| BMV      |   0xAfDa56289E92338514B5aBF0bf22A7dcA60d7e09   |   Trustless   |
+| BMV      |   0xFCDD2AB0D0D98c3f74db20a0913c7e3B264dF8a1   |   Trustless   |
 | XCALL    |   0x6193c0b12116c4963594761d859571b9950a8686   |      |
 | Demo DAPP   |   0xb072b7d60C143944fdBb45E22A3ae04DcD0b7432   |      |
 
