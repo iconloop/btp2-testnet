@@ -74,7 +74,7 @@ This document provides information on the BTP network connected to the ICON Berl
 ## HAVAH TestNet
 
 ### Domain
-* RPC URL : `https://btp.vega.havah.io/api/v3/icon_dex`
+* RPC URL : `https://ctz.altair.havah.io/api/v3/icon_dex`
 * Network : `0x111.icon`
 * BTP NetworkId :
   * Berlin : `0x3`
