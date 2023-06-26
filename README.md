@@ -13,11 +13,11 @@ This document provides information on the BTP network connected to the ICON Berl
 * RPC URL : `https://berlin.net.solidwallet.io/api/v3/icon_dex`
 * Network : `0x7.icon`
 * BTP NetworkId : 
-  * BSC : `0x1`
+  * BSC : `0x4`
   * Eth2 : `0x2`
   * Havah : `0x3`
 * StartHeight 
-  * BSC : 6229774
+  * BSC : 9929680
   * Eth2 : 6229184
   * Havah : 8582402
 
@@ -25,7 +25,7 @@ This document provides information on the BTP network connected to the ICON Berl
 | Contract  | Address |                   Note                    |
 |:----------|:-------:|:-----------------------------------------:|
 | BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                           |
-| BSC BMV   |   cx57b9817bfa313afeffc459b19e8dab973f7b4e82   |                Bridge Mode                |
+| BSC BMV   |   cx6810e0a7d6c0bc53eef006c221dcd731c8903a95   |                Bridge Mode                |
 | Eth2 BMV  |   cxbab382c24c5e492d45cf11c0b07fd36e8344e96f   |   Trustless Mode<br /> Supports Capella   |
 | Havah BMV |   cxd1bd0add3c7707fa875bf5370da46875365f44cf   |              Trustless Mode               |
 | XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                           |
@@ -37,17 +37,17 @@ This document provides information on the BTP network connected to the ICON Berl
 ### Domain
 * RPC URL : `https://data-seed-prebsc-1-s1.binance.org:8545`
 * Network : `0x61.bsc`
-* StartHeight : 28463560
+* StartHeight : 31022641
 
 ### Contract
 | Contract | Address | Note |
 |:---------|:-------:|:----:|
-| BMCM     |   0xFd82803c9b2E92C628846012c6E5016Ac380f68d   |      |
-| BMCS     |   0x6AB5fB039ABbEE20bf43F84393E528015686fB04   |      |
-| BMC      |   0x193eD92257E0773ccBA097e0ba4110E588eb0F1c   |      |
-| BMV      |   0xFCDD2AB0D0D98c3f74db20a0913c7e3B264dF8a1   |   Trustless Mode  |
-| XCALL    |   0x6193c0b12116c4963594761d859571b9950a8686   |      |
-| Demo DAPP   |   0xb072b7d60C143944fdBb45E22A3ae04DcD0b7432   |      |
+| BMCM     |   0x41CD95F16f9bbF2bEB5479C00CF249A8b0A076bF   |      |
+| BMCS     |   0xCC98F0736ec2ef32B8A64251BB89aF14E27043b6   |      |
+| BMC      |   0x9Fd9e050682A8795dEa6eE70870A82a513d390Ac   |      |
+| BMV      |   0x0a42d5c21EF16aec1c31c4511EdCaA9648a9538C   |   Trustless Mode  |
+| XCALL    |   0x908169ab780de828dCd014Dd9f3768BB65C46e37   |      |
+| Demo DAPP   |   0xA77a7545Fb4e35bDB0D96144c0e771305Dc3D7fB   |      |
 
 
 ## ETH2 Sepolia TestNet
