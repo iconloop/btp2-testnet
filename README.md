@@ -14,7 +14,7 @@ This document provides information on the BTP network connected to the ICON Berl
 * Network : `0x7.icon`
 * BTP NetworkId : 
   * BSC : `0x4`
-  * Eth2 : `0x2`
+  * Eth2 : `0x5`
   * Havah : `0x3`
 * StartHeight 
   * BSC : 9929680
@@ -26,7 +26,7 @@ This document provides information on the BTP network connected to the ICON Berl
 |:----------|:-------:|:-----------------------------------------:|
 | BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                           |
 | BSC BMV   |   cx6810e0a7d6c0bc53eef006c221dcd731c8903a95   |                Bridge Mode                |
-| Eth2 BMV  |   cxbab382c24c5e492d45cf11c0b07fd36e8344e96f   |   Trustless Mode<br /> Supports Capella   |
+| Eth2 BMV  |   cx506970c5a98fce3a8b29a5a8436ed691e1fdbcda   |   Trustless Mode<br /> Supports Capella   |
 | Havah BMV |   cxd1bd0add3c7707fa875bf5370da46875365f44cf   |              Trustless Mode               |
 | XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                           |
 | Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |                                           |
@@ -58,17 +58,17 @@ This document provides information on the BTP network connected to the ICON Berl
 ### Domain
 * RPC URL : `https://sepolia.infura.io/v3/ffbf8ebe228f4758ae82e175640275e0`
 * Network : `0xaa36a7.eth2`
-* StartHeight : 3185472
+* StartHeight : 3774860
 
 ### Contract
 | Contract | Address | Note |
 |:---------|:-------:|:----:|
-| BMCM     |   0x39FBbE3AeCbe6ED08baf16e13eFE4aA31550CaA2   |      |
-| BMCS     |   0xd6298BBB8b8B8EA273C3CB470B273A1cef552Ef3   |      |
-| BMC      |   0x50DD9479c45085dC64c6F0a0796040C7768f25CE   |      |
-| BMV      |   0x684ba8F34f9481f7F02aCd4F143506E11AC19E3E   | Trustless Mode |
-| XCALL    |   0x9B68bd3a04Ff138CaFfFe6D96Bc330c699F34901   |      |
-| Demo DAPP   |   0x0FcBB34A8468CaA65d3f81CAef8C42E43043687c   |      |
+| BMCM     |   0xee89840B024C570313D3540029A242c1b4E0E0A5   |      |
+| BMCS     |   0xf04859b44Accae55D92510C4CC77F1dB41503DF5   |      |
+| BMC      |   0xb31057dA7d24216E16e270e15CdbE537F472caEF   |      |
+| BMV      |   0x73cCDBF447c8BbED10457A65F04DC4547d3071C1   | Trustless Mode |
+| XCALL    |   0x232dd167F4141d4313C29b5ea264aa98f9c339d4   |      |
+| Demo DAPP   |   0x52D0A13ABD0B949FF840de7F953545BBB9259A9c   |      |
 
 
 ## HAVAH TestNet
