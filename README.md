@@ -15,11 +15,11 @@ This document provides information on the BTP network connected to the ICON Berl
 * BTP NetworkId : 
   * BSC : `0x4`
   * Eth2 : `0x6`
-  * Havah : `0x3`
+  * Havah : `0x7`
 * StartHeight 
   * BSC : 9929680
   * Eth2 : 10349992
-  * Havah : 8582402
+  * Havah : 10361781
 
 ### Contract
 | Contract  | Address |                   Note                    |
@@ -27,7 +27,7 @@ This document provides information on the BTP network connected to the ICON Berl
 | BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                           |
 | BSC BMV   |   cx6810e0a7d6c0bc53eef006c221dcd731c8903a95   |                Bridge Mode                |
 | Eth2 BMV  |   cxdd91f194673553097745f33dd464a39740075735   |   Trustless Mode<br /> Supports Capella   |
-| Havah BMV |   cxd1bd0add3c7707fa875bf5370da46875365f44cf   |              Trustless Mode               |
+| Havah BMV |   cx90b6dca89aa45388b24a6c158eb9d21d51263037   |              Trustless Mode               |
 | XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                           |
 | Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |                                           |
 
@@ -77,14 +77,14 @@ This document provides information on the BTP network connected to the ICON Berl
 * RPC URL : `https://ctz.altair.havah.io/api/v3/icon_dex`
 * Network : `0x111.icon`
 * BTP NetworkId :
-  * Berlin : `0x3`
+  * Berlin : `0x1`
 * StartHeight
-  * Berlin : 1296519
+  * Berlin : 9443
 
 ### Contract
 | Contract  | Address |                   Note                    |
 |:----------|:-------:|:-----------------------------------------:|
-| BMC       |   cx683a92f72cc2fe9a7a617019a8d6fcba6b6c06b7   |                                           |
-| BMV |   cx8737236f65ef6d41ac33b328bc758e8663366caa   |              Trustless Mode               |
-| XCALL     |   cx05b5f4e2cb80827d4b53d13549041c66442f327d   |                                           |
-| Demo DAPP |   cxd1531ebfc81cb890810bc0e5603c1e27046174e3   |                                           |
+| BMC       |   cxf36efc770627067c41949a16688a0246ea6428e8   |                                           |
+| BMV |   cx90f9d84e0b757ba02599fabcbda30e46105cb89c   |              Trustless Mode               |
+| XCALL     |   cxce3a72cc1defaf07b23e05b595840c00d5a80b0c   |                                           |
+| Demo DAPP |   cxc9f0ba03c4a39a43c5dc0a5ae5d2d1327a065d62   |                                           |
