@@ -4,6 +4,8 @@
 ## Introduction
 This document provides information on the BTP network connected to the ICON Berlin TestNet.
 
+* [BTP2 Network Status Monitor](https://testnet.btp2.24x365.online/)
+
 ## Relay
 * Repository URL : [BTP2 Repository](https://github.com/icon-project/btp2/tree/v1.0.2)
 * Version : v1.0.2
