@@ -5,7 +5,7 @@
         "network": "0x7.icon",
         "name": "ICON Berlin",
         "bmc": "cxf1b0808f09138fffdb890772315aeabb37072a8a",
-        "tx_limit": 4
+        "rx_limit": 4
     },
     {
         "type": "eth",
@@ -15,8 +15,8 @@
         "bmc": "0xE602326106f5E1d436a3CCEB2A408759925f81ff",
         "bmcm": "0x9fb595461023f9A920B276A4b289972c4aFF114F",
         "bmcs": "0xEe94cBA4C4d138fb4de1F4bcfA1CEeF062eE8251",
-        "rx_limit": 2700,
-        "tx_limit": 60
+        "rx_limit": 60,
+        "tx_limit": 2700
     },
     {
         "type": "eth",
@@ -26,8 +26,8 @@
         "bmc": "0x9Fd9e050682A8795dEa6eE70870A82a513d390Ac",
         "bmcm": "0x41CD95F16f9bbF2bEB5479C00CF249A8b0A076bF",
         "bmcs": "0xCC98F0736ec2ef32B8A64251BB89aF14E27043b6",
-        "tx_limit": 7,
-        "rx_limit": 27
+        "rx_limit": 14,
+        "tx_limit": 30
     },
     {
         "type": "icon",
@@ -35,6 +35,6 @@
         "network": "0x111.icon",
         "name": "HAVAH BTP",
         "bmc": "cxf36efc770627067c41949a16688a0246ea6428e8",
-        "tx_limit": 4
+        "rx_limit": 4
     }
 ]
