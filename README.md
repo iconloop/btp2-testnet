@@ -48,8 +48,8 @@ This document provides information on the BTP network connected to the ICON Berl
 | BMCS     |   0xCC98F0736ec2ef32B8A64251BB89aF14E27043b6   |      |
 | BMC      |   0x9Fd9e050682A8795dEa6eE70870A82a513d390Ac   |      |
 | BMV      |   0x0a42d5c21EF16aec1c31c4511EdCaA9648a9538C   |   Trustless Mode  |
-| XCALL    |   0x908169ab780de828dCd014Dd9f3768BB65C46e37   |      |
-| Demo DAPP   |   0xA77a7545Fb4e35bDB0D96144c0e771305Dc3D7fB   |      |
+| XCALL    |   0x5Ebb7aCB7bCaf7C1ADeFcF9660D39AC07d432904   |      |
+| Demo DAPP   |   0x4EaC1CDBE8131de10FE1AE969397d02d47D21082   |      |
 
 
 ## ETH2 Sepolia TestNet
