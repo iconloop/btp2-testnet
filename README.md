@@ -13,6 +13,7 @@ This document provides information on the BTP network connected to the ICON Berl
 
 ### Domain
 * RPC URL : `https://berlin.net.solidwallet.io/api/v3/icon_dex`
+* Tracker URL : [Berlin Tracker](https://berlin.tracker.solidwallet.io/)
 * Network : `0x7.icon`
 * BTP NetworkId : 
   * BSC : `0x4`
@@ -38,6 +39,7 @@ This document provides information on the BTP network connected to the ICON Berl
 
 ### Domain
 * RPC URL : `https://data-seed-prebsc-1-s1.binance.org:8545`
+* Tracker URL : [BSC TestNet Scanner](https://testnet.bscscan.com/)
 * Network : `0x61.bsc`
 * StartHeight : 31022641
 
@@ -60,6 +62,7 @@ This document provides information on the BTP network connected to the ICON Berl
 
 ### Domain
 * RPC URL : `https://sepolia.infura.io/v3/ffbf8ebe228f4758ae82e175640275e0`
+* Tracker URL : [Sepolia Scanner](https://sepolia.etherscan.io/)
 * Network : `0xaa36a7.eth2`
 * StartHeight : 3813345
 
@@ -79,6 +82,7 @@ This document provides information on the BTP network connected to the ICON Berl
 
 ### Domain
 * RPC URL : `https://ctz.altair.havah.io/api/v3/icon_dex`
+* Tracker URL : [HAVAH TestNet Tracker](https://scan.altair.havah.io/)
 * Network : `0x111.icon`
 * BTP NetworkId :
   * Berlin : `0x1`
