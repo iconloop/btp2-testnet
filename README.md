@@ -44,15 +44,16 @@ This document provides information on the BTP network connected to the ICON Berl
 * StartHeight : 31022641
 
 ### Contract
-| Contract  | Address | Note |
-|:----------|:-------:|:----:|
-| BMCM      |   0x41CD95F16f9bbF2bEB5479C00CF249A8b0A076bF   |      |
-| BMCS      |   0xCC98F0736ec2ef32B8A64251BB89aF14E27043b6   |      |
-| BMC       |   0x9Fd9e050682A8795dEa6eE70870A82a513d390Ac   |      |
-| BMCP      |   0x8E3eb11031b6316C2A8e85040ecb204040Dc2A69   |      |
-| BMV       |   0x0a42d5c21EF16aec1c31c4511EdCaA9648a9538C   |   Trustless Mode  |
-| XCALL     |   0x5Ebb7aCB7bCaf7C1ADeFcF9660D39AC07d432904   |      |
-| Demo DAPP |   0x4EaC1CDBE8131de10FE1AE969397d02d47D21082   |      |
+| Contract             | Address |      Note      |
+|:---------------------|:-------:|:--------------:|
+| BMC                  |   0x9Fd9e050682A8795dEa6eE70870A82a513d390Ac   |                |
+| BMC Implementation   |   0x8E3eb11031b6316C2A8e85040ecb204040Dc2A69   |                |
+| BMCM                 |   0x41CD95F16f9bbF2bEB5479C00CF249A8b0A076bF   |                |
+| BMCS                 |   0xCC98F0736ec2ef32B8A64251BB89aF14E27043b6   |                |
+| BMV                  |   0x0a42d5c21EF16aec1c31c4511EdCaA9648a9538C   | Trustless Mode |
+| XCALL                |   0x5Ebb7aCB7bCaf7C1ADeFcF9660D39AC07d432904   |                |
+| XCALL Implementation |   0x3CFBbB1c3a83b1c5a8E94eC3e2229Ba7a03f3EAd   |                |
+| Demo DAPP            |   0x4EaC1CDBE8131de10FE1AE969397d02d47D21082   |                |
 
 
 ## ETH2 Sepolia TestNet
@@ -67,15 +68,16 @@ This document provides information on the BTP network connected to the ICON Berl
 * StartHeight : 3813345
 
 ### Contract
-| Contract  | Address | Note |
-|:----------|:-------:|:----:|
-| BMCM      |   0x9fb595461023f9A920B276A4b289972c4aFF114F   |      |
-| BMCS      |   0xEe94cBA4C4d138fb4de1F4bcfA1CEeF062eE8251   |      |
-| BMC       |   0xE602326106f5E1d436a3CCEB2A408759925f81ff   |      |
-| BMCP      |   0x23810745feC53c8D80E9A3E30508458E408d3EB7   |      |
-| BMV       |   0x1592F432Dde573341BaFe14d5FAbe4A299b2E721   | Trustless Mode |
-| XCALL     |   0x694C1f5Fb4b81e730428490a1cE3dE6e32428637   |      |
-| Demo DAPP |   0x597F73bfb3124B6145151E7a8A30b781C41FF2B0   |      |
+| Contract             | Address |      Note      |
+|:---------------------|:-------:|:--------------:|
+| BMC                  |   0xE602326106f5E1d436a3CCEB2A408759925f81ff   |                |
+| BMC Implementation   |   0x23810745feC53c8D80E9A3E30508458E408d3EB7   |                |
+| BMCM                 |   0x9fb595461023f9A920B276A4b289972c4aFF114F   |                |
+| BMCS                 |   0xEe94cBA4C4d138fb4de1F4bcfA1CEeF062eE8251   |                |
+| BMV                  |   0x1592F432Dde573341BaFe14d5FAbe4A299b2E721   | Trustless Mode |
+| XCALL                |   0x694C1f5Fb4b81e730428490a1cE3dE6e32428637   |                |
+| XCALL Implementation |   0x7Fc0f3807ECAD54eFCCb6ED686a788955fe0958f   |                |
+| Demo DAPP            |   0x597F73bfb3124B6145151E7a8A30b781C41FF2B0   |                |
 
 
 ## HAVAH TestNet
