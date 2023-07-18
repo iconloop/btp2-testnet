@@ -18,11 +18,11 @@ This document provides information on the BTP network connected to the ICON Berl
 * BTP NetworkId : 
   * BSC : `0x4`
   * Eth2 : `0x6`
-  * Havah : `0x7`
+  * HAVAH : `0x7`
 * StartHeight 
   * BSC : 9929680
   * Eth2 : 10349992
-  * Havah : 10361781
+  * HAVAH : 10361781
 
 ### Contract
 | Contract  | Address |                   Note                    |
@@ -30,7 +30,7 @@ This document provides information on the BTP network connected to the ICON Berl
 | BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                           |
 | BSC BMV   |   cx6810e0a7d6c0bc53eef006c221dcd731c8903a95   |                Bridge Mode                |
 | Eth2 BMV  |   cxdd91f194673553097745f33dd464a39740075735   |   Trustless Mode<br /> Supports Capella   |
-| Havah BMV |   cx90b6dca89aa45388b24a6c158eb9d21d51263037   |              Trustless Mode               |
+| HAVAH BMV |   cx90b6dca89aa45388b24a6c158eb9d21d51263037   |              Trustless Mode               |
 | XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                           |
 | Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |                                           |
 
