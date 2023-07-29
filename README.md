@@ -47,7 +47,7 @@ This document provides information on the BTP network connected to the ICON Berl
 | Contract             | Address |      Note      |
 |:---------------------|:-------:|:--------------:|
 | BMC                  |   0x9Fd9e050682A8795dEa6eE70870A82a513d390Ac   |                |
-| BMC Implementation   |   0x8E3eb11031b6316C2A8e85040ecb204040Dc2A69   |                |
+| BMC Implementation   |   0x1709FB3Cd401cB86Fd30Dd3Ef0d1A0c76858C8b5   |                |
 | BMCM                 |   0x41CD95F16f9bbF2bEB5479C00CF249A8b0A076bF   |                |
 | BMCS                 |   0xCC98F0736ec2ef32B8A64251BB89aF14E27043b6   |                |
 | BMV                  |   0x0a42d5c21EF16aec1c31c4511EdCaA9648a9538C   | Trustless Mode |
@@ -71,7 +71,7 @@ This document provides information on the BTP network connected to the ICON Berl
 | Contract             | Address |      Note      |
 |:---------------------|:-------:|:--------------:|
 | BMC                  |   0xE602326106f5E1d436a3CCEB2A408759925f81ff   |                |
-| BMC Implementation   |   0x23810745feC53c8D80E9A3E30508458E408d3EB7   |                |
+| BMC Implementation   |   0x63ca9B73De32F1ECBF285b710D4371a2aE1aC1ED   |                |
 | BMCM                 |   0x9fb595461023f9A920B276A4b289972c4aFF114F   |                |
 | BMCS                 |   0xEe94cBA4C4d138fb4de1F4bcfA1CEeF062eE8251   |                |
 | BMV                  |   0x1592F432Dde573341BaFe14d5FAbe4A299b2E721   | Trustless Mode |
