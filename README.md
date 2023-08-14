@@ -25,14 +25,14 @@ This document provides information on the BTP network connected to the ICON Berl
   * HAVAH : 10361781
 
 ### Contract
-| Contract  | Address |                   Note                    |
-|:----------|:-------:|:-----------------------------------------:|
-| BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                           |
-| BSC BMV   |   cx1898cbd74d6506d93b0a2d792b3afa06e1f6a6f0   |   Trustless Mode<br /> Supports Hertz     |
-| Eth2 BMV  |   cxdd91f194673553097745f33dd464a39740075735   |   Trustless Mode<br /> Supports Capella   |
-| HAVAH BMV |   cx90b6dca89aa45388b24a6c158eb9d21d51263037   |              Trustless Mode               |
-| XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                           |
-| Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |                                           |
+| Contract  | Address |                 Note                  |
+|:----------|:-------:|:-------------------------------------:|
+| BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                       |
+| BSC BMV   |   cxf91622bde00947354a65876829931f92c0ba329b   |              Bridge Mode              |
+| Eth2 BMV  |   cxdd91f194673553097745f33dd464a39740075735   | Trustless Mode<br /> Supports Capella |
+| HAVAH BMV |   cx90b6dca89aa45388b24a6c158eb9d21d51263037   |            Trustless Mode             |
+| XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                       |
+| Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |                                       |
 
 
 ## BSC TestNet TestNet
