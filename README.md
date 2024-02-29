@@ -17,20 +17,17 @@ This document provides information on the BTP network connected to the ICON Berl
 * Network : `0x7.icon`
 * BTP NetworkId : 
   * BSC : `0x4`
-  * Eth2 : `0x6`
-  * HAVAH : `0x7`
+  * Eth2 : `0x9`
 * StartHeight 
   * BSC : 9929680
   * Eth2 : 10349992
-  * HAVAH : 10361781
 
 ### Contract
 | Contract  | Address |                 Note                  |
 |:----------|:-------:|:-------------------------------------:|
 | BMC       |   cxf1b0808f09138fffdb890772315aeabb37072a8a   |                                       |
 | BSC BMV   |   cxd9c67ab9ff545d0c9c0420ae24757472de070819   | Trustless Mode<br /> Supports Hertz   |
-| Eth2 BMV  |   cxdd91f194673553097745f33dd464a39740075735   | Trustless Mode<br /> Supports Capella |
-| HAVAH BMV |   cx90b6dca89aa45388b24a6c158eb9d21d51263037   |            Trustless Mode             |
+| Eth2 BMV  |   cx00d17f668964b034638106b7a619335f5f05d809   | Trustless Mode<br /> Supports Capella |
 | XCALL     |   cxf4958b242a264fc11d7d8d95f79035e35b21c1bb   |                                       |
 | Demo DAPP |   cx92283a47a95164bd3d604da08128886125593545   |                                       |
 
@@ -74,27 +71,7 @@ This document provides information on the BTP network connected to the ICON Berl
 | BMC Implementation   |   0x12FdFaBb9Cd07758756f7302767e993709690C80   |                |
 | BMCM                 |   0x9fb595461023f9A920B276A4b289972c4aFF114F   |                |
 | BMCS                 |   0xEe94cBA4C4d138fb4de1F4bcfA1CEeF062eE8251   |                |
-| BMV                  |   0x5a70BEF39F13FC45CcbC719c9FB4BCed8936ac31   | Trustless Mode |
+| BMV                  |   0x719b9074BE0d0bC3bb50850000FaCC28Cb70Fc50   | Trustless Mode |
 | XCALL                |   0x694C1f5Fb4b81e730428490a1cE3dE6e32428637   |                |
 | XCALL Implementation |   0x7Fc0f3807ECAD54eFCCb6ED686a788955fe0958f   |                |
 | Demo DAPP            |   0x597F73bfb3124B6145151E7a8A30b781C41FF2B0   |                |
-
-
-## HAVAH TestNet
-
-### Domain
-* RPC URL : `https://ctz.altair.havah.io/api/v3/icon_dex`
-* Tracker URL : [HAVAH TestNet Tracker](https://scan.altair.havah.io/)
-* Network : `0x111.icon`
-* BTP NetworkId :
-  * Berlin : `0x1`
-* StartHeight
-  * Berlin : 9443
-
-### Contract
-| Contract  | Address |                   Note                    |
-|:----------|:-------:|:-----------------------------------------:|
-| BMC       |   cxf36efc770627067c41949a16688a0246ea6428e8   |                                           |
-| BMV |   cx90f9d84e0b757ba02599fabcbda30e46105cb89c   |              Trustless Mode               |
-| XCALL     |   cxce3a72cc1defaf07b23e05b595840c00d5a80b0c   |                                           |
-| Demo DAPP |   cxc9f0ba03c4a39a43c5dc0a5ae5d2d1327a065d62   |                                           |
