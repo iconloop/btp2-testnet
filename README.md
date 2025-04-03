@@ -1,5 +1,4 @@
-# BTP2-TestNet
-
+# BTP2-TestNet (Deprecated)
 
 ## Introduction
 This document provides information on the BTP network connected to the ICON Berlin TestNet.
